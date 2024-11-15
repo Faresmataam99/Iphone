@@ -7,7 +7,7 @@ export default (props)=>{
             <h2 className="text-2xl font-bold">Iphone 14 pro</h2>
             <div className="flex items-center justify-center">
             <h3>Price:</h3><p>1999</p>
-            <span>£</span>
+            <span>€</span>
             </div>
             <button className="flex items-center bg-black text-white font-bold px-4 py-2 rounded-lg hover:bg-gray-400 transition-all duration-200 m-6">Add</button>
 
